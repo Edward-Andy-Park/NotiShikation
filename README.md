@@ -2,12 +2,18 @@
 Personal Android App Project
 
 
+
+
+
+
 ## Features
-* Notify users some news about their favorite seiyuu(especially from μ's)
+Notify users some news about their favorite seiyuu(especially from μ's)
+
 
 
 ## Purpose
-* This app is not for commercial. Just for experience and for fun. 
+This app is not for commercial. Just for experience and for fun. 
+
 
 
 ## Rough Schedule
@@ -23,6 +29,7 @@ Personal Android App Project
 - ~ 11/30: Final Commit
 
 - 12/01 ~: Start Service
+
 
 
 ## Version
